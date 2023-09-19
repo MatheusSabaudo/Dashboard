@@ -1,0 +1,7 @@
+C:\Users\matte\OneDrive\Documenti\GitHub\Dashboard\Client\bin\Release\net7.0-windows\publish\Client.exe
+C:\Users\matte\OneDrive\Documenti\GitHub\Dashboard\Client\bin\Release\net7.0-windows\publish\Client.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Dashboard\Client\bin\Release\net7.0-windows\publish\Client.deps.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Dashboard\Client\bin\Release\net7.0-windows\publish\Client.runtimeconfig.json
+C:\Users\matte\OneDrive\Documenti\GitHub\Dashboard\Client\bin\Release\net7.0-windows\publish\Client.pdb
+C:\Users\matte\OneDrive\Documenti\GitHub\Dashboard\Client\bin\Release\net7.0-windows\publish\System.Data.OleDb.dll
+C:\Users\matte\OneDrive\Documenti\GitHub\Dashboard\Client\bin\Release\net7.0-windows\publish\runtimes\win\lib\net7.0\System.Data.OleDb.dll
